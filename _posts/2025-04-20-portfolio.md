@@ -13,6 +13,21 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ---
 
+## 🧾 Table of Contents
+
+- [👨‍💻 Portfolio - Software Engineer | C++ Developer](#-portfolio---software-engineer--c-developer)
+  - [🧾 Table of Contents](#-table-of-contents)
+  - [💼 About me](#-about-me)
+  - [💼 Professional Experience](#-professional-experience)
+    - [🔹 Freelance Work](#-freelance-work)
+    - [🔹 Hired Position](#-hired-position)
+  - [🚀 Featured Projects](#-featured-projects)
+  - [🛠️ Technical Skills](#️-technical-skills)
+  - [👥 Teamwork](#-teamwork)
+  - [📬 Contact Me](#-contact-me)
+
+---
+
 ## 💼 [About me](/cristiannieto.github.io/posts/about_me)
 
 ---
@@ -34,8 +49,7 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ## 🚀 Featured Projects
 
-<!-- - [Project 1: SDL2 Game Engine Prototype](pages/projects/project3.md)
-- [Project 2: Godot + C++ Game](pages/projects/project3.md) -->
+- TODO
 
 ---
 
