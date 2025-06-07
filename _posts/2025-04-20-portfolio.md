@@ -13,7 +13,7 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ---
 
-## 💼 [About me](/posts/about_me)
+## 💼 [About me](/cristiannieto.github.io/posts/about_me)
 
 ---
 
