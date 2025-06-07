@@ -32,14 +32,14 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ### 🔹 Freelance Work
 
-- [Halliburton](/posts/halliburton)
-- [Devbot](/posts/devbot)
-- [Citi/Actinver](/posts/actinver)
-- [KosmosGPS](/posts/kosmos_gps)
+- [Halliburton](/cristiannieto.github.io/posts/halliburton)
+- [Devbot](/cristiannieto.github.io/posts//devbot)
+- [Citi/Actinver](/cristiannieto.github.io/posts/actinver)
+- [KosmosGPS](/cristiannieto.github.io/posts/kosmos_gps)
 
 ### 🔹 Hired Position
 
-- [MSC - Mediterranean Shipping Company](/posts/msc)
+- [MSC - Mediterranean Shipping Company](/cristiannieto.github.io/posts/msc)
 
 ---
 
