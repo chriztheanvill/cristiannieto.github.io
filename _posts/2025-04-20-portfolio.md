@@ -83,7 +83,6 @@ Most of my work has been done in teams ranging from **3 to 7 developers**, colla
 
 ---
 
-
 ## 📬 Contact Me
 
 📩 Email: enriquenietohdz@gmail.com  
