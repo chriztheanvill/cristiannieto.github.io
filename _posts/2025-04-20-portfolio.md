@@ -15,12 +15,12 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ## 🧾 Table of Contents
 
-0. [About Me](#-about_me)
-1. [Professional Experience](#-professional-experience)
-2. [Featured Projects](#-featured-projects)
-3. [Technical Skills](#%EF%B8%8F-technical-skills)
-4. [Teamwork](#-teamwork)
-5. [Contact Me](#-contact-me)
+0. [About Me](#about_me)
+1. [Professional Experience](#professional-experience)
+2. [Featured Projects](#featured-projects)
+3. [Technical Skills](#technical-skills)
+4. [Teamwork](#teamwork)
+5. [Contact Me](#contact-me)
 
 ---
 
