@@ -1,22 +1,14 @@
 ---
 title: "Portfolio"
 date: 2025-04-20
+layout: page
 categories: [portfolio]
 tags: [linux,cpp]
----
-
-# 👨‍💻 Portfolio - Software Engineer | C++ Developer
-
-Welcome to my personal portfolio — a showcase of my professional journey, projects, and technical skills in software engineering with a strong focus on **C++**, **Linux**, and high-performance systems development.
-
-> 💡 This site is built using Markdown and hosted via GitHub Pages.
-
 ---
 
 ## 🧾 Table of Contents
 
 - [👨‍💻 Portfolio - Software Engineer | C++ Developer](#-portfolio---software-engineer--c-developer)
-  - [🧾 Table of Contents](#-table-of-contents)
   - [💼 About me](#-about-me)
   - [💼 Professional Experience](#-professional-experience)
     - [🔹 Freelance Work](#-freelance-work)
@@ -27,6 +19,12 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
   - [📬 Contact Me](#-contact-me)
 
 ---
+
+# 👨‍💻 Portfolio - Software Engineer | C++ Developer
+
+Welcome to my personal portfolio — a showcase of my professional journey, projects, and technical skills in software engineering with a strong focus on **C++**, **Linux**, and high-performance systems development.
+
+> 💡 This site is built using Markdown and hosted via GitHub Pages.
 
 ## 💼 [About me](/cristiannieto.github.io/posts/about_me)
 
