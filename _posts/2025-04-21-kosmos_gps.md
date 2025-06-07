@@ -1,7 +1,7 @@
 ---
 title: Kosmos_GPS
-date: 2025-04-11 12:00:00 -500
-categories: [portfolio,software]
+date: 2025-04-21
+categories: [portfolio]
 tags: [linux,cpp]
 ---
 
