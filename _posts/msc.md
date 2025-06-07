@@ -1,5 +1,5 @@
 ---
-title: Mediterranean Shipping Company
+title: "Mediterranean Shipping Company"
 date: 2025-04-21
 categories: [portfolio]
 tags: [linux,cpp]
