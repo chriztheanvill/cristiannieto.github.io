@@ -16,17 +16,15 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 ## 🧾 Table of Contents
 
 0. [About Me](#about_me)
-1. [Professional Experience](#professional-experience)
-2. [Featured Projects](#featured-projects)
-3. [Technical Skills](#technical-skills)
-4. [Tools & Technologies](#tools--technologies)
-5. [Design Patterns](#design-patterns)
-6. [Teamwork](#teamwork)
-7. [Contact Me](#contact-me)
+1. [Professional Experience](#-professional-experience)
+2. [Featured Projects](#-featured-projects)
+3. [Technical Skills](#%EF%B8%8F-technical-skills)
+4. [Teamwork](#-teamwork)
+5. [Contact Me](#-contact-me)
 
 ---
 
-## 💼 [About me](http://127.0.0.1:4000/posts/halliburton/)
+## 💼 [About me](/posts/about_me)
 
 ---
 
@@ -34,14 +32,14 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ### 🔹 Freelance Work
 
-- [Halliburton](http://127.0.0.1:4000/posts/halliburton/)
-- [Devbot](pages/freelance/devbot.md)
-- [Citi/Actinver](pages/freelance/citi-actinver.md)
-- [KosmosGPS](pages/freelance/kosmosgps.md)
+- [Halliburton](/posts/halliburton)
+- [Devbot](/posts/devbot)
+- [Citi/Actinver](/posts/actinver)
+- [KosmosGPS](/posts/kosmos_gps)
 
 ### 🔹 Hired Position
 
-- [MSC - Mediterranean Shipping Company](pages/jobs/msc.md)
+- [MSC - Mediterranean Shipping Company](/posts/msc)
 
 ---
 
@@ -54,39 +52,20 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ## 🛠️ Technical Skills
 
-| Category          | Skills |
-|-------------------|--------|
-| Languages         | C++, Python, Lua, Bash |
+| Category          | Skills                                              |
+| ----------------- | --------------------------------------------------- |
+| C++ Standards     | C++17, C++20, working toward C++26 adoption         |
+| Languages         | C++, C#, PHP, JS                                    |
 | Paradigms         | Object-Oriented Programming, Functional Programming |
-| OS                | Linux (Ubuntu, fedora, Debian, Immutable), Windows |
-| Dev Tools         | CLion, GDB, Valgrind, Git, CMake, Conan |
-| Frameworks        | SDL2, SQLite |
-| Architectures     | ECS, MVC, Singleton, Factory Pattern |
-
----
-
-## 🧰 Tools & Technologies
-
-- **C++ Standards**: C++17, C++20, working toward C++26 adoption
-- **Build Systems**: CMake, Conan Package Manager
-- **IDEs**: CLion, VSCode
-- **Debugging / Profiling**: Valgrind, GProf, Perf
-- **VCS**: Git, GitHub, GitLab CI/CD
-- **Databases**: SQLite, MySql, SQLserver, Mongodb
-- **Game Development**: SDL2, ECS design, Godot, Unreal Engine
-
----
-
-## 🎯 Design Patterns Used
-
-I've applied the following patterns in real-world projects:
-
-- ✅ **Singleton**: For managing global state safely.
-- ✅ **Factory Method**: For object creation abstraction.
-- ✅ **Builder**: For constructing complex objects step-by-step.
-- ✅ **Strategy**: To switch algorithms at runtime.
-- ✅ **Observer**: For event-driven architectures.
-- ✅ **Command**: For undo-redo functionality.
+| OS                | Linux (Ubuntu, fedora, Debian, Immutable), Windows  |
+| IDEs              | CLion, VScode                                       |
+| Build Systems     | CMake, Conan Package Manager                        |
+| VCS               | Git, GitHub, GitLab CI/CD                           |
+| Debug / Profiling | GDB, Valgrind, GProf, Perf                          |
+| Databases         | SQLite, MySql, SQLserver, Mongodb                   |
+| Frameworks        | SDL2, SQLite                                        |
+| Architectures     | ECS, MVC, Singleton, Factory Pattern                |
+| Game Development  | SDL2, ECS design, Godot, Unreal Engine              |
 
 ---
 
@@ -104,5 +83,5 @@ Most of my work has been done in teams ranging from **3 to 7 developers**, colla
 ## 📬 Contact Me
 
 📩 Email: enriquenietohdz@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)   
+🔗 LinkedIn: [cristian_nieto](https://www.linkedin.com/in/cristian-nieto-363984307)   
 📁 GitHub: [github.com/chriztheanvill](https://github.com/chriztheanvill/SDL2_Engine/tree/0.0.8-alt) 
