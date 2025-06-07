@@ -1,6 +1,7 @@
 ---
 title: "Portfolio"
 date: 2025-04-20
+layout: page
 categories: [portfolio]
 tags: [linux,cpp]
 ---
