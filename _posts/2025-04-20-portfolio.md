@@ -45,8 +45,8 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ## 🚀 Featured Projects
 
-- [Project 1: SDL2 Game Engine Prototype](pages/projects/project3.md)
-- [Project 2: Godot + C++ Game](pages/projects/project3.md)
+<!-- - [Project 1: SDL2 Game Engine Prototype](pages/projects/project3.md)
+- [Project 2: Godot + C++ Game](pages/projects/project3.md) -->
 
 ---
 
