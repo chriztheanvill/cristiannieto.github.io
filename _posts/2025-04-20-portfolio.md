@@ -55,20 +55,20 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ## 🛠️ Technical Skills
 
-| Category          | Skills                                              |
-| ----------------- | --------------------------------------------------- |
-| C++ Standards     | C++17, C++20, working toward C++26 adoption         |
-| Languages         | C++, C#, PHP, JS                                    |
-| Paradigms         | Object-Oriented Programming, Functional Programming |
-| OS                | Linux (Ubuntu, fedora, Debian, Immutable), Windows  |
-| IDEs              | CLion, VScode                                       |
-| Build Systems     | CMake, Conan Package Manager                        |
-| VCS               | Git, GitHub, GitLab CI/CD                           |
-| Debug / Profiling | GDB, Valgrind, GProf, Perf                          |
-| Databases         | SQLite, MySql, SQLserver, Mongodb                   |
-| Frameworks        | SDL2, SQLite                                        |
-| Architectures     | ECS, MVC, Singleton, Factory Pattern                |
-| Game Development  | SDL2, ECS design, Godot, Unreal Engine              |
+| Category          | Skills                                             |
+| ----------------- | -------------------------------------------------- |
+| C++ Standards     | C++11 - C++23, working toward C++26 adoption       |
+| Languages         | C++, C#, PHP, JS, Zig                              |
+| Paradigms         | OOP, Functional, ECS, DOD                          |
+| OS                | Linux (Ubuntu, fedora, Debian, Immutable), Windows |
+| C++ Pkg Manager   | Conan2, Vcpkg                                      |
+| Build Systems     | CMake, Meson                                       |
+| VCS               | Git, GitHub                                        |
+| Debug / Profiling | GDB, Valgrind, GProf, Perf                         |
+| Databases         | SQLite, MySql, SQLServer, Mongodb                  |
+| Frameworks        | Boost, SDL2, Raylib, Express.js, Laravel           |
+| Architectures     | ECS, DOD, MVC                                      |
+| Game Development  | Own Engine, Godot, Unity, Unreal Engine            |
 
 ---
 
