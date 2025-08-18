@@ -35,7 +35,7 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 ### 🔹 Freelance Work
 
 - [Halliburton](/cristiannieto.github.io/posts/halliburton)
-- [Devbot](/cristiannieto.github.io/posts//devbot)
+<!-- - [Devbot](/cristiannieto.github.io/posts//devbot) -->
 - [Citi/Actinver](/cristiannieto.github.io/posts/actinver)
 - [KosmosGPS](/cristiannieto.github.io/posts/kosmos_gps)
 
