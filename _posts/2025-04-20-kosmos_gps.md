@@ -9,7 +9,7 @@ tags: [linux,cpp]
 ## 🧾 **Kosmos GPS - Embedded & Backend Development**
 
 ### Project Title: Vehicle Tracking System - Embedded Device & Backend Communication  
-**Duration:** 2 years  
+**Duration:** 4 Months  
 **Role:** Sole Developer  
 
 ---

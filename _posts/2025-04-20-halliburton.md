@@ -9,7 +9,7 @@ tags: [linux,cpp]
 
 # **Software Modernization at Halliburton**
 
-**Role:** C++ Developer | **Team Size:** 2 | **Duration:** 2 Years  
+**Role:** C++ Developer | **Team Size:** 2 | **Duration:** 5 Months  
 **Technologies:** C++20, Qt, Qwt6, CMake, 3D Rendering, Linux Migration  
 
 ## **Project Overview**  
