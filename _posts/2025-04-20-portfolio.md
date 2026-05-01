@@ -13,7 +13,6 @@ tags: [linux,cpp]
   - [Professional Experience](#professional-experience)
     - [Freelance Work](#freelance-work)
     - [Hired Position](#hired-position)
-  - [Featured Projects](#featured-projects)
   - [Technical Skills](#technical-skills)
   - [Contact Me](#contact-me)
 
@@ -42,11 +41,11 @@ Welcome to my personal portfolio — a showcase of my professional journey, proj
 
 ---
 
-## Featured Projects
+<!-- ## Featured Projects
 
 - [Game Start](https://chriztheanvill.github.io/cris_gamedev_journey.github.io/posts/game_start/)
 - [Engine ECS C++](https://chriztheanvill.github.io/cris_gamedev_journey.github.io/posts/engine_ecs/)
-- [Godot C++](https://chriztheanvill.github.io/cris_gamedev_journey.github.io/posts/godot_game_cpp/)
+- [Godot C++](https://chriztheanvill.github.io/cris_gamedev_journey.github.io/posts/godot_game_cpp/) -->
 
 ---
 
