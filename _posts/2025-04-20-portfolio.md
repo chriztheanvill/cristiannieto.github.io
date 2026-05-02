@@ -43,9 +43,7 @@ Welcome to my portfolio — a showcase of my projects and technical work with a 
 
 ### 2D Action RPG - Godot 4
 
-> Godot 4 | GDScript (strong typing) | SQLite | original IP
-
-A lane-based action shooter blending Plants vs. Zombies-style strategy with Nioh/Borderlands loot and bullet-hell boss phases.
+> Godot 4 | GDScript (strong typing) | SQLite 
 
 **2D Action RPG, Godot 4 / GDScript (Static Typing)**
 
@@ -72,8 +70,8 @@ Fetch/decode/execute architecture with memory state inspection and cycle-accurat
 | ---------------- | ------------- | ----------------------------------------------------------------------- |
 | **6502**         | ✅ Complete    | All addressing modes, cycle-accurate, NES / Atari compatible            |
 | **CHIP-8**       | ✅ Complete    | 64×32 display, sound/delay timers, mapped keyboard                      |
-| **Z80**          | ✅ Complete    | CB/DD/ED/FD extensions, full flag behaviour, I/O bus CP/M / ZX Spectrum |
-| **RISC-V RV32I** | ✅ Complete    | R/I/S/B/U/J decoding, basic pipeline, word-addressable memory           |
+| **Z80**          | 🚧 In progress | CB/DD/ED/FD extensions, full flag behaviour, I/O bus CP/M / ZX Spectrum |
+| **RISC-V RV32I** | 🚧 In progress | R/I/S/B/U/J decoding, basic pipeline, word-addressable memory           |
 | **GBA**          | 🚧 In progress | ARM7TDMI core, Thumb ISA, memory-mapped I/O                             |
 
 Idiomatic Zig 0.16 throughout: explicit allocators, tagged unions for opcodes, comptime dispatch tables, zero GC overhead.
