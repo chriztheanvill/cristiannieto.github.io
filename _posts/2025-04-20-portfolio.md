@@ -27,7 +27,7 @@ tags: [zig, cpp, godot, raylib, sdl2, sqlite, emulation]
 
 # Portfolio - Systems Software Engineer
 
-Welcome to my portfolio — a showcase of my projects and technical work with a focus on **Zig**, **C++**, **emulation**, **dev tools**, and **game development** on Linux.
+Welcome to my portfolio, a showcase of my projects and technical work with a focus on **Zig**, **C++**, **emulation**, **dev tools**, and **game development** on Linux.
 
 ---
 
